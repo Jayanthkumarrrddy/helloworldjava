@@ -1,5 +1,5 @@
 public class helloworld {
    public static void main(String[] args) {
-    System.out.println("Hello India, triggered by webhook check2!");
+    System.out.println("Hello India : Triggered by webhook!");
     }
 }
